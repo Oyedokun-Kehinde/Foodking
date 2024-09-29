@@ -19,7 +19,7 @@
 
         // Set the recipient email address.
         // Note:  Update this to your desired email address.
-        $recipient = "modinatheme@gmail.com";
+        $recipient = "decimaltechy@gmail.com";
 
         // Set the email subject.
         $subjecttitle = "New Contact $subject";
@@ -28,7 +28,7 @@
         $email_content = "Name: $name  \r\n\n";
         $email_content .= "Email: $email \r\n\n";
         $email_content .= "Subject: $subject \r\n\n";
-        $email_content .= "Phone: $phone \r\n\n";
+        $email_content .= "Phone: $phone \r\n\n";   
         $email_content .= "Message: $message \r\n\n";
 
         // Build the email headers.
