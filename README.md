@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 To get a local copy of the project, use the following command:
 ```bash
-git clone https://github.com/YOUR_USERNAME/foodking.git
+git clone https://github.com/Oyedokun-Kehinde/foodking.git
 ```
 
 ### Navigate to the Project Directory
@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, feedback, or support, please reach out to us:
 - **Email:** support@foodking.com
 - **Instagram:** [@foodking](https://instagram.com/foodking)
-- **WhatsApp:** [Link to your WhatsApp](https://wa.me/234XXXXXXXXXX) 
+- **WhatsApp:** [Link to your WhatsApp](https://wa.me/2348028134942) 
 
 Thank you for choosing Foodking! We hope you enjoy your meals!
 ```

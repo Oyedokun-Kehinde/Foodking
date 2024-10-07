@@ -1,0 +1,5 @@
+# Ignore Windows system files
+AppData/
+*.log
+.dotnet/
+.vscode/

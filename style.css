@@ -1,9 +1,9 @@
 /*
-Theme Name: Foodking
-Author: Modina Theme
-Author URI: https://themeforest.net/user/modinatheme/
-Description: Fast Food Restaurant Html
-Version: 2.0.0
+Project Name: Foodking
+Author: Decimal Technologies
+Author URI: https://thefoodking.netlify.app/
+Description: Foodking is a fast-growing online platform specializing in delivering delicious, freshly prepared fast food. From crispy chicken and mouthwatering burgers to savory shawarma, Foodking offers a convenient and satisfying dining experience for customers who crave quality and taste, all delivered right to their doorsteps.
+Version: 1.0.0
 */
 
 /*
@@ -46,7 +46,7 @@ All the SCSS File in SCSS Folder of Assets Folder. You can read the doc file als
 @import 'preloader';
 
 /* ----------------------------------
-    Template Section Styles
+    Section Styles
  ------------------------------------*/
 
  /* // Menu - Header Section 
